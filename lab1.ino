@@ -58,8 +58,8 @@ void kim2_1(){
 void kim3_4(){
   int k = 0;
   while(1){
-      display.setSegments(SEG_RUNSTR+(k%14), 4, 0);
-      k = (k+1)%14;
+      display.setSegments(SEG_RUNSTR+(k%12), 4, 0);
+      k = (k+1)%12;
       delay(400);
   }
 }
