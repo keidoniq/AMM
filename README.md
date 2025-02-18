@@ -64,8 +64,8 @@ Counts up from 0 to 200 in steps of 20, displaying each number with a decimal po
 ## Wokwi Simulation
 You can view and interact with the simulation of this project on Wokwi: 
 
-* `lab1`  [TM1637 Display Project](//https://wokwi.com/projects/376034534469872641)
+* `lab1`  [TM1637 Display Project](https://wokwi.com/projects/376034534469872641)
 
-* `lab2`  [Temperature and Humidity Display](//https://wokwi.com/projects/376037042816877569)
+* `lab2`  [Temperature and Humidity Display](https://wokwi.com/projects/376037042816877569)
 
-* `lab3`  [Keypad and LCD Menu System](//https://wokwi.com/projects/376034534469872641)
+* `lab3`  [Keypad and LCD Menu System](https://wokwi.com/projects/384202754168672257)
